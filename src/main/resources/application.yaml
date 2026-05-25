@@ -1,0 +1,25 @@
+# Application Name and Port
+server:
+  port: 8081
+
+spring:
+  application:
+    name: order-service
+
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/ms2_db?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  # JPA/Hibernate Configuration
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+# Logging
+logging:
+  level:
+    root: INFO
+    com.case_study.order: DEBUG
