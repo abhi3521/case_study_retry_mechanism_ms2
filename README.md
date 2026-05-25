@@ -825,12 +825,6 @@ Request Latency Breakdown:
 
 ---
 
-## 📞 Support
-
-For issues, questions, or contributions, please create an issue in the repository.
-
----
-
 **Version:** 1.0.0  
 **Last Updated:** 2026-05-26  
 **Author:** Abhishek Kumar
