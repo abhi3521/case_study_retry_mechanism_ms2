@@ -833,4 +833,8 @@ For issues, questions, or contributions, please create an issue in the repositor
 
 **Version:** 1.0.0  
 **Last Updated:** 2026-05-26  
-**Author:** Case Study Team
+**Author:** Abhishek Kumar
+
+**Github:** https://github.com/abhi3521
+
+**LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-9657b4190/
